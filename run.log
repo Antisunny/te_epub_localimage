@@ -1,0 +1,380 @@
+[2024-11-02 04:02:58,453] [INFO] ------------------------
+[2024-11-02 04:02:58,459] [DEBUG] Extracting epub file: `/Users/apple/Calibre Library/calibre/The Economist [Oct 25, 2024] (11)/The Economist [Oct 25, 2024] - calibre.epub`
+[2024-11-02 04:02:58,622] [DEBUG]     Extracted to: `/var/folders/sw/gzws7g91279bybslywm4mcmm0000gn/T/epub_localimage.x3w0zwug`
+[2024-11-02 04:03:00,341] [DEBUG] Finding *.html file(s) in `/var/folders/sw/gzws7g91279bybslywm4mcmm0000gn/T/epub_localimage.x3w0zwug`
+[2024-11-02 04:03:00,363] [DEBUG]     Found 91 *.html file(s)
+[2024-11-02 04:03:00,363] [DEBUG] Parsing `index_u11.html`
+[2024-11-02 04:03:00,372] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,373] [DEBUG] Parsing `index_u30.html`
+[2024-11-02 04:03:00,378] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,378] [DEBUG] Parsing `index_u85.html`
+[2024-11-02 04:03:00,384] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,384] [DEBUG] Parsing `index_u64.html`
+[2024-11-02 04:03:00,391] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,392] [DEBUG] Parsing `index_u87.html`
+[2024-11-02 04:03:00,397] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,398] [DEBUG] Parsing `index_u77.html`
+[2024-11-02 04:03:00,405] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,405] [DEBUG] Parsing `index_u51.html`
+[2024-11-02 04:03:00,412] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,413] [DEBUG] Parsing `index_u62.html`
+[2024-11-02 04:03:00,420] [DEBUG]     Found 1 HTTP image(s)
+[2024-11-02 04:03:00,421] [DEBUG] Parsing `index_u70.html`
+[2024-11-02 04:03:00,425] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,425] [DEBUG] Parsing `index_u73.html`
+[2024-11-02 04:03:00,431] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,431] [DEBUG] Parsing `index_u13.html`
+[2024-11-02 04:03:00,437] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,437] [DEBUG] Parsing `index_u71.html`
+[2024-11-02 04:03:00,447] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,447] [DEBUG] Parsing `index_u49.html`
+[2024-11-02 04:03:00,453] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,453] [DEBUG] Parsing `index_u90.html`
+[2024-11-02 04:03:00,458] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,458] [DEBUG] Parsing `index_u48.html`
+[2024-11-02 04:03:00,464] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,464] [DEBUG] Parsing `index_u41.html`
+[2024-11-02 04:03:00,471] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,471] [DEBUG] Parsing `index_u61.html`
+[2024-11-02 04:03:00,477] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,478] [DEBUG] Parsing `index_u31.html`
+[2024-11-02 04:03:00,483] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,483] [DEBUG] Parsing `index_u15.html`
+[2024-11-02 04:03:00,491] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,491] [DEBUG] Parsing `index_u34.html`
+[2024-11-02 04:03:00,496] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,497] [DEBUG] Parsing `index_u89.html`
+[2024-11-02 04:03:00,501] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,502] [DEBUG] Parsing `index_u35.html`
+[2024-11-02 04:03:00,508] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,508] [DEBUG] Parsing `index_u20.html`
+[2024-11-02 04:03:00,518] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,518] [DEBUG] Parsing `index_u9.html`
+[2024-11-02 04:03:00,523] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,523] [DEBUG] Parsing `index_u75.html`
+[2024-11-02 04:03:00,530] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,530] [DEBUG] Parsing `index_u33.html`
+[2024-11-02 04:03:00,540] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,540] [DEBUG] Parsing `index.html`
+[2024-11-02 04:03:00,546] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,546] [DEBUG] Parsing `index_u54.html`
+[2024-11-02 04:03:00,552] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,553] [DEBUG] Parsing `index_u4.html`
+[2024-11-02 04:03:00,556] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,556] [DEBUG] Parsing `index_u7.html`
+[2024-11-02 04:03:00,566] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,567] [DEBUG] Parsing `index_u27.html`
+[2024-11-02 04:03:00,570] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,570] [DEBUG] Parsing `index_u55.html`
+[2024-11-02 04:03:00,575] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,576] [DEBUG] Parsing `index_u44.html`
+[2024-11-02 04:03:00,581] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,582] [DEBUG] Parsing `index_u5.html`
+[2024-11-02 04:03:00,587] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,587] [DEBUG] Parsing `index_u83.html`
+[2024-11-02 04:03:00,592] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,592] [DEBUG] Parsing `index_u81.html`
+[2024-11-02 04:03:00,598] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,598] [DEBUG] Parsing `index_u36.html`
+[2024-11-02 04:03:00,606] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,606] [DEBUG] Parsing `index_u58.html`
+[2024-11-02 04:03:00,613] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,613] [DEBUG] Parsing `index_u16.html`
+[2024-11-02 04:03:00,619] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,620] [DEBUG] Parsing `index_u25.html`
+[2024-11-02 04:03:00,625] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,625] [DEBUG] Parsing `index_u40.html`
+[2024-11-02 04:03:00,628] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,628] [DEBUG] Parsing `index_u82.html`
+[2024-11-02 04:03:00,640] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,640] [DEBUG] Parsing `index_u32.html`
+[2024-11-02 04:03:00,643] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,643] [DEBUG] Parsing `index_u60.html`
+[2024-11-02 04:03:00,648] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,648] [DEBUG] Parsing `index_u78.html`
+[2024-11-02 04:03:00,653] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,653] [DEBUG] Parsing `index_u24.html`
+[2024-11-02 04:03:00,659] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,659] [DEBUG] Parsing `index_u8.html`
+[2024-11-02 04:03:00,665] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,665] [DEBUG] Parsing `index_u2.html`
+[2024-11-02 04:03:00,670] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,670] [DEBUG] Parsing `index_u84.html`
+[2024-11-02 04:03:00,676] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,676] [DEBUG] Parsing `index_u52.html`
+[2024-11-02 04:03:00,683] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,683] [DEBUG] Parsing `index_u10.html`
+[2024-11-02 04:03:00,689] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,689] [DEBUG] Parsing `index_u65.html`
+[2024-11-02 04:03:00,695] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,696] [DEBUG] Parsing `index_u14.html`
+[2024-11-02 04:03:00,699] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,699] [DEBUG] Parsing `index_u3.html`
+[2024-11-02 04:03:00,711] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,711] [DEBUG] Parsing `index_u22.html`
+[2024-11-02 04:03:00,714] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,714] [DEBUG] Parsing `index_u72.html`
+[2024-11-02 04:03:00,719] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,719] [DEBUG] Parsing `index_u29.html`
+[2024-11-02 04:03:00,723] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,723] [DEBUG] Parsing `index_u1.html`
+[2024-11-02 04:03:00,729] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,729] [DEBUG] Parsing `index_u46.html`
+[2024-11-02 04:03:00,735] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,735] [DEBUG] Parsing `index_u63.html`
+[2024-11-02 04:03:00,740] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,740] [DEBUG] Parsing `index_u21.html`
+[2024-11-02 04:03:00,745] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,745] [DEBUG] Parsing `index_u37.html`
+[2024-11-02 04:03:00,751] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,751] [DEBUG] Parsing `index_u39.html`
+[2024-11-02 04:03:00,758] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,758] [DEBUG] Parsing `index_u69.html`
+[2024-11-02 04:03:00,764] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,764] [DEBUG] Parsing `index_u17.html`
+[2024-11-02 04:03:00,770] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,770] [DEBUG] Parsing `index_u23.html`
+[2024-11-02 04:03:00,776] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,776] [DEBUG] Parsing `index_u79.html`
+[2024-11-02 04:03:00,782] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,782] [DEBUG] Parsing `index_u43.html`
+[2024-11-02 04:03:00,786] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,786] [DEBUG] Parsing `index_u67.html`
+[2024-11-02 04:03:00,792] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,792] [DEBUG] Parsing `index_u66.html`
+[2024-11-02 04:03:00,800] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,800] [DEBUG] Parsing `index_u56.html`
+[2024-11-02 04:03:00,816] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,816] [DEBUG] Parsing `index_u80.html`
+[2024-11-02 04:03:00,823] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,823] [DEBUG] Parsing `index_u38.html`
+[2024-11-02 04:03:00,829] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,829] [DEBUG] Parsing `index_u68.html`
+[2024-11-02 04:03:00,832] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,832] [DEBUG] Parsing `index_u57.html`
+[2024-11-02 04:03:00,840] [DEBUG]     Found 1 HTTP image(s)
+[2024-11-02 04:03:00,840] [DEBUG] Parsing `index_u26.html`
+[2024-11-02 04:03:00,844] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,844] [DEBUG] Parsing `index_u6.html`
+[2024-11-02 04:03:00,853] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,853] [DEBUG] Parsing `index_u76.html`
+[2024-11-02 04:03:00,861] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,861] [DEBUG] Parsing `index_u50.html`
+[2024-11-02 04:03:00,866] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,866] [DEBUG] Parsing `index_u74.html`
+[2024-11-02 04:03:00,871] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,871] [DEBUG] Parsing `index_u59.html`
+[2024-11-02 04:03:00,878] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,878] [DEBUG] Parsing `index_u42.html`
+[2024-11-02 04:03:00,884] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,884] [DEBUG] Parsing `index_u47.html`
+[2024-11-02 04:03:00,889] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,890] [DEBUG] Parsing `index_u45.html`
+[2024-11-02 04:03:00,895] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,895] [DEBUG] Parsing `index_u88.html`
+[2024-11-02 04:03:00,900] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,900] [DEBUG] Parsing `index_u28.html`
+[2024-11-02 04:03:00,905] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,905] [DEBUG] Parsing `index_u86.html`
+[2024-11-02 04:03:00,911] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,912] [DEBUG] Parsing `index_u18.html`
+[2024-11-02 04:03:00,917] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,918] [DEBUG] Parsing `index_u53.html`
+[2024-11-02 04:03:00,924] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,924] [DEBUG] Parsing `index_u12.html`
+[2024-11-02 04:03:00,932] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,932] [DEBUG] Parsing `index_u19.html`
+[2024-11-02 04:03:00,938] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:00,938] [INFO] 2 HTTP images found.
+[2024-11-02 04:03:00,938] [INFO] [/var/folders/sw/gzws7g91279bybslywm4mcmm0000gn/T/epub_localimage.x3w0zwug/feed_13/article_1/index_u62.html] -> [https://www.economist.com/cdn-cgi/image/width=600,quality=80,format=auto/media-assets/image/20241026_FNC452.png]
+[2024-11-02 04:03:00,939] [INFO] [/var/folders/sw/gzws7g91279bybslywm4mcmm0000gn/T/epub_localimage.x3w0zwug/feed_0/article_3/index_u57.html] -> [https://www.economist.com/cdn-cgi/image/width=600,quality=80,format=auto/media-assets/image/20241026_DE_US.jpg]
+[2024-11-02 04:03:00,939] [DEBUG] Binning tempdir: `/var/folders/sw/gzws7g91279bybslywm4mcmm0000gn/T/epub_localimage.x3w0zwug`
+[2024-11-02 04:03:25,899] [INFO] ------------------------
+[2024-11-02 04:03:25,906] [DEBUG] Extracting epub file: `/Users/apple/Calibre Library/calibre/The Economist [Oct 25, 2024] (11)/The Economist [Oct 25, 2024] - calibre.241102_030333.epub`
+[2024-11-02 04:03:26,078] [DEBUG]     Extracted to: `/var/folders/sw/gzws7g91279bybslywm4mcmm0000gn/T/epub_localimage.svow0c3r`
+[2024-11-02 04:03:27,368] [DEBUG] Finding *.html file(s) in `/var/folders/sw/gzws7g91279bybslywm4mcmm0000gn/T/epub_localimage.svow0c3r`
+[2024-11-02 04:03:27,397] [DEBUG]     Found 91 *.html file(s)
+[2024-11-02 04:03:27,398] [DEBUG] Parsing `index_u11.html`
+[2024-11-02 04:03:27,408] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,408] [DEBUG] Parsing `index_u30.html`
+[2024-11-02 04:03:27,413] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,413] [DEBUG] Parsing `index_u85.html`
+[2024-11-02 04:03:27,419] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,419] [DEBUG] Parsing `index_u64.html`
+[2024-11-02 04:03:27,426] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,426] [DEBUG] Parsing `index_u87.html`
+[2024-11-02 04:03:27,432] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,432] [DEBUG] Parsing `index_u77.html`
+[2024-11-02 04:03:27,440] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,440] [DEBUG] Parsing `index_u51.html`
+[2024-11-02 04:03:27,447] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,447] [DEBUG] Parsing `index_u62.html`
+[2024-11-02 04:03:27,455] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,456] [DEBUG] Parsing `index_u70.html`
+[2024-11-02 04:03:27,460] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,460] [DEBUG] Parsing `index_u73.html`
+[2024-11-02 04:03:27,466] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,466] [DEBUG] Parsing `index_u13.html`
+[2024-11-02 04:03:27,472] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,472] [DEBUG] Parsing `index_u71.html`
+[2024-11-02 04:03:27,482] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,482] [DEBUG] Parsing `index_u49.html`
+[2024-11-02 04:03:27,487] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,488] [DEBUG] Parsing `index_u90.html`
+[2024-11-02 04:03:27,492] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,492] [DEBUG] Parsing `index_u48.html`
+[2024-11-02 04:03:27,498] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,498] [DEBUG] Parsing `index_u41.html`
+[2024-11-02 04:03:27,505] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,505] [DEBUG] Parsing `index_u61.html`
+[2024-11-02 04:03:27,512] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,512] [DEBUG] Parsing `index_u31.html`
+[2024-11-02 04:03:27,517] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,518] [DEBUG] Parsing `index_u15.html`
+[2024-11-02 04:03:27,524] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,525] [DEBUG] Parsing `index_u34.html`
+[2024-11-02 04:03:27,530] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,530] [DEBUG] Parsing `index_u89.html`
+[2024-11-02 04:03:27,535] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,535] [DEBUG] Parsing `index_u35.html`
+[2024-11-02 04:03:27,542] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,542] [DEBUG] Parsing `index_u20.html`
+[2024-11-02 04:03:27,551] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,551] [DEBUG] Parsing `index_u9.html`
+[2024-11-02 04:03:27,557] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,557] [DEBUG] Parsing `index_u75.html`
+[2024-11-02 04:03:27,564] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,564] [DEBUG] Parsing `index_u33.html`
+[2024-11-02 04:03:27,572] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,572] [DEBUG] Parsing `index.html`
+[2024-11-02 04:03:27,578] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,578] [DEBUG] Parsing `index_u54.html`
+[2024-11-02 04:03:27,584] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,584] [DEBUG] Parsing `index_u4.html`
+[2024-11-02 04:03:27,587] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,588] [DEBUG] Parsing `index_u7.html`
+[2024-11-02 04:03:27,598] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,598] [DEBUG] Parsing `index_u27.html`
+[2024-11-02 04:03:27,602] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,602] [DEBUG] Parsing `index_u55.html`
+[2024-11-02 04:03:27,607] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,607] [DEBUG] Parsing `index_u44.html`
+[2024-11-02 04:03:27,613] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,613] [DEBUG] Parsing `index_u5.html`
+[2024-11-02 04:03:27,619] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,619] [DEBUG] Parsing `index_u83.html`
+[2024-11-02 04:03:27,623] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,623] [DEBUG] Parsing `index_u81.html`
+[2024-11-02 04:03:27,629] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,629] [DEBUG] Parsing `index_u36.html`
+[2024-11-02 04:03:27,637] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,637] [DEBUG] Parsing `index_u58.html`
+[2024-11-02 04:03:27,644] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,644] [DEBUG] Parsing `index_u16.html`
+[2024-11-02 04:03:27,650] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,650] [DEBUG] Parsing `index_u25.html`
+[2024-11-02 04:03:27,656] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,656] [DEBUG] Parsing `index_u40.html`
+[2024-11-02 04:03:27,659] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,659] [DEBUG] Parsing `index_u82.html`
+[2024-11-02 04:03:27,670] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,671] [DEBUG] Parsing `index_u32.html`
+[2024-11-02 04:03:27,674] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,674] [DEBUG] Parsing `index_u60.html`
+[2024-11-02 04:03:27,679] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,679] [DEBUG] Parsing `index_u78.html`
+[2024-11-02 04:03:27,683] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,683] [DEBUG] Parsing `index_u24.html`
+[2024-11-02 04:03:27,689] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,689] [DEBUG] Parsing `index_u8.html`
+[2024-11-02 04:03:27,695] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,695] [DEBUG] Parsing `index_u2.html`
+[2024-11-02 04:03:27,700] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,700] [DEBUG] Parsing `index_u84.html`
+[2024-11-02 04:03:27,706] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,706] [DEBUG] Parsing `index_u52.html`
+[2024-11-02 04:03:27,713] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,713] [DEBUG] Parsing `index_u10.html`
+[2024-11-02 04:03:27,719] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,719] [DEBUG] Parsing `index_u65.html`
+[2024-11-02 04:03:27,725] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,725] [DEBUG] Parsing `index_u14.html`
+[2024-11-02 04:03:27,729] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,729] [DEBUG] Parsing `index_u3.html`
+[2024-11-02 04:03:27,741] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,741] [DEBUG] Parsing `index_u22.html`
+[2024-11-02 04:03:27,744] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,744] [DEBUG] Parsing `index_u72.html`
+[2024-11-02 04:03:27,748] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,748] [DEBUG] Parsing `index_u29.html`
+[2024-11-02 04:03:27,752] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,752] [DEBUG] Parsing `index_u1.html`
+[2024-11-02 04:03:27,758] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,758] [DEBUG] Parsing `index_u46.html`
+[2024-11-02 04:03:27,764] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,764] [DEBUG] Parsing `index_u63.html`
+[2024-11-02 04:03:27,769] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,770] [DEBUG] Parsing `index_u21.html`
+[2024-11-02 04:03:27,774] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,774] [DEBUG] Parsing `index_u37.html`
+[2024-11-02 04:03:27,780] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,780] [DEBUG] Parsing `index_u39.html`
+[2024-11-02 04:03:27,787] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,787] [DEBUG] Parsing `index_u69.html`
+[2024-11-02 04:03:27,792] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,792] [DEBUG] Parsing `index_u17.html`
+[2024-11-02 04:03:27,798] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,798] [DEBUG] Parsing `index_u23.html`
+[2024-11-02 04:03:27,805] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,805] [DEBUG] Parsing `index_u79.html`
+[2024-11-02 04:03:27,810] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,811] [DEBUG] Parsing `index_u43.html`
+[2024-11-02 04:03:27,815] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,815] [DEBUG] Parsing `index_u67.html`
+[2024-11-02 04:03:27,820] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,821] [DEBUG] Parsing `index_u66.html`
+[2024-11-02 04:03:27,829] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,829] [DEBUG] Parsing `index_u56.html`
+[2024-11-02 04:03:27,845] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,845] [DEBUG] Parsing `index_u80.html`
+[2024-11-02 04:03:27,851] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,851] [DEBUG] Parsing `index_u38.html`
+[2024-11-02 04:03:27,857] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,857] [DEBUG] Parsing `index_u68.html`
+[2024-11-02 04:03:27,861] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,861] [DEBUG] Parsing `index_u57.html`
+[2024-11-02 04:03:27,868] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,868] [DEBUG] Parsing `index_u26.html`
+[2024-11-02 04:03:27,872] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,872] [DEBUG] Parsing `index_u6.html`
+[2024-11-02 04:03:27,881] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,881] [DEBUG] Parsing `index_u76.html`
+[2024-11-02 04:03:27,889] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,889] [DEBUG] Parsing `index_u50.html`
+[2024-11-02 04:03:27,893] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,893] [DEBUG] Parsing `index_u74.html`
+[2024-11-02 04:03:27,899] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,899] [DEBUG] Parsing `index_u59.html`
+[2024-11-02 04:03:27,906] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,906] [DEBUG] Parsing `index_u42.html`
+[2024-11-02 04:03:27,912] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,912] [DEBUG] Parsing `index_u47.html`
+[2024-11-02 04:03:27,917] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,917] [DEBUG] Parsing `index_u45.html`
+[2024-11-02 04:03:27,923] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,923] [DEBUG] Parsing `index_u88.html`
+[2024-11-02 04:03:27,928] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,928] [DEBUG] Parsing `index_u28.html`
+[2024-11-02 04:03:27,932] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,932] [DEBUG] Parsing `index_u86.html`
+[2024-11-02 04:03:27,939] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,939] [DEBUG] Parsing `index_u18.html`
+[2024-11-02 04:03:27,945] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,945] [DEBUG] Parsing `index_u53.html`
+[2024-11-02 04:03:27,951] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,951] [DEBUG] Parsing `index_u12.html`
+[2024-11-02 04:03:27,959] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,959] [DEBUG] Parsing `index_u19.html`
+[2024-11-02 04:03:27,964] [DEBUG]     Not found HTTP image(s)
+[2024-11-02 04:03:27,965] [INFO] 0 HTTP images found.
+[2024-11-02 04:03:27,965] [DEBUG] Binning tempdir: `/var/folders/sw/gzws7g91279bybslywm4mcmm0000gn/T/epub_localimage.svow0c3r`
