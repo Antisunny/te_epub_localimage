@@ -137,6 +137,7 @@ def localise_http_images(http_imgs: list, extract_to: str, save_epub_path: str =
             extract_to,
             None)
         logging.debug("Saved as %s", save_epub_path)
+        print(f"Saved to `{save_epub_path}`")
         shutil.move(
             save_epub_path.replace('.epub', '.zip'),
             save_epub_path)
@@ -209,7 +210,7 @@ if __name__ == '__main__':
                 print(f"[{http_image_in_file}] -> [{http_image_url}]")
             logging.info(f"[{http_image_in_file}] -> [{http_image_url}]")
 
-        if args.command == 'plenish':
+        if args.command == 'replenish':
             epub_file_if = epub_file if args.override else epub_file_new
             localise_http_images(http_images, extract_to, save_epub_path=epub_file_if, save_epub_alt=True)
 
