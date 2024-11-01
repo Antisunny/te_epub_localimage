@@ -196,9 +196,9 @@ if __name__ == '__main__':
         epub_name_new = re.subn(r"\.epub$", f".{get_timestamp()}.epub", epub_name, 1)
         epub_file_new = pp.join(pp.dirname(epub_file), epub_name_new[0])
 
-        wait = input("wait? (R) ")
-        if wait not in ['R']:
-            exit(0)
+        # wait = input("wait? (R) ")
+        # if wait not in ['R']:
+        #     exit(0)
 
         http_images = trawl_http_imgs(extract_to)
 
